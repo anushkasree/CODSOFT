@@ -7,6 +7,9 @@ def chatbot_response(user_input):
         "hello": ["Hi there!", "Hello!", "Hey!"],
         "how are you": ["I'm doing well, thank you!", "I'm fine, thanks for asking!"],
         "bye": ["Goodbye!", "See you later!", "Bye!"],
+        "are you happy":["yes i am"],
+        "are you hungry":["no I am not,thankyou"],
+        "what is your name":["ich bin AI"],
         "default": ["I'm sorry, I didn't understand that.", "Could you please rephrase that?", "I'm not sure what you mean."]
     }
     
